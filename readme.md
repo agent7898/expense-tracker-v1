@@ -55,13 +55,6 @@ Total expense is: 225.0
 3. Stops when user enters -999
 4. Calculates and displays the total sum of all expenses
 
-## Future Improvements
-
-- Add expense categories
-- Save expenses to a file
-- View expense history
-- Delete or edit expenses
-- Add date/time tracking
 
 ## Author
 
